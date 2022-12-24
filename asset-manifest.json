@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/melody-prod/static/css/main.368c30a6.css",
-    "main.js": "/melody-prod/static/js/main.f988a59e.js",
-    "index.html": "/melody-prod/index.html"
+    "main.css": "/static/css/main.368c30a6.css",
+    "main.js": "/static/js/main.e670305f.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.368c30a6.css",
-    "static/js/main.f988a59e.js"
+    "static/js/main.e670305f.js"
   ]
 }
